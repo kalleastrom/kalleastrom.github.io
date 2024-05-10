@@ -9,6 +9,6 @@ We will study and develop differentiable methods based on discrete features and 
 
 Note that the subject area for the PhD is mathematics and applicants will need to take math courses during their PhD studies. Please contact me for more details.
 
-Apply [here]([https://wasp-sweden.org](https://lu.varbi.com/en/what:job/jobID:717159/)). (Deadline 28 May 2024)
+Apply [here](https://lu.varbi.com/en/what:job/jobID:717159/). (Deadline 28 May 2024)
 
-My colleague **Carl Olsson** also has a position funded by [Wallenberg AI, Autonomous Systems and Software Program](https://wasp-sweden.org) on **Matrix factorization and optimization**. It is posted on the same place, i.e. [here]([https://wasp-sweden.org](https://lu.varbi.com/en/what:job/jobID:717159/))
+My colleague **Carl Olsson** also has a position funded by [Wallenberg AI, Autonomous Systems and Software Program](https://wasp-sweden.org) on **Matrix factorization and optimization**. It is posted on the same place, i.e. [here](https://lu.varbi.com/en/what:job/jobID:717159/).
